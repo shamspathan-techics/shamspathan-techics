@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shamspathan-techics  and working on Tech ICS
+- 👋 Hi, I’m Shams and working at Tech ICS
 
 <!---
 shamspathan-techics/shamspathan-techics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
